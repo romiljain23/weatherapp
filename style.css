@@ -100,3 +100,9 @@ section{
     text-align: center;
     padding: 10px;
   }
+
+  @media screen and (max-width:1000px) {
+    .card{
+      margin-bottom: 8cm;
+    }
+  }
