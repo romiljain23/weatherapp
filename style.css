@@ -29,7 +29,7 @@ section{
   }
   @media screen and (max-width:1000px) {
     .card{
-      margin-top: 6cm;
+      margin-top: 3cm;
     }
   }
   .search {
@@ -103,6 +103,7 @@ section{
     font-weight: bold;
     text-align: center;
     padding: 10px;
+    
   }
 
  
