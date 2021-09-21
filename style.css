@@ -29,7 +29,7 @@ section{
   }
   @media screen and (max-width:1000px) {
     .card{
-      margin-top: 2cm;
+      margin-top: 3cm;
     }
   }
   .search {
