@@ -27,7 +27,11 @@ section{
     max-width: 420px;
     margin: 1em;
   }
-  
+  @media screen and (max-width:1000px) {
+    .card{
+      margin-top: 6cm;
+    }
+  }
   .search {
     display: flex;
     align-items: center;
@@ -101,8 +105,4 @@ section{
     padding: 10px;
   }
 
-  @media screen and (max-width:1000px) {
-    .card{
-      margin-top: 6cm;
-    }
-  }
+ 
