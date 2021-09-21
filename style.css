@@ -1,5 +1,5 @@
 body {
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -9,6 +9,14 @@ body {
     background-image: url('https://source.unsplash.com/1600x900/?landscape');
     font-size: 120%;
   }
+section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 89vh; */
+  height: 88%;
+  margin-top: auto;
+}
   
   .card {
     background: #000000d0;
@@ -85,3 +93,10 @@ body {
     left: 20px;
   }
   
+  .copyright{
+    /* background-color:transparent; */
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+  }
